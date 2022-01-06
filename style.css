@@ -1,4 +1,105 @@
 body {
     margin: 50px;
+    
+}
+.hd {
+    border-left: 11px solid blue;
+    height: fit-content;
+    padding: 5px;
+    margin-bottom:0px ;
+}
+h1{
+    font-size: 40px;
+}
+h4 {
+    font-size: 20px;
+}
+h3{
+    font-size: 30px;
+}
+p {
     font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.flex {
+    display: flex;
+}
+span {
+    color: rgb(140, 0, 255);
+}
+.mission {
+    background-color: rgba(0, 255, 42, 0.322);
+    padding: 10px ;
+    margin-right: 8px;
+    border-radius: 10px;
+    height: auto;
+    
+}
+.mission img {
+    width:  60%;
+}
+.vission {
+    background-color: rgba(100, 148, 237, 0.322);
+    padding: 10px ;
+    margin-right: 8px;
+    margin-left: 8px;
+    border-radius: 10px;
+    height: auto;
+}
+.vission img {
+    width:  50%;
+}
+.goals {
+    background-color: rgba(179, 204, 155, 0.568);
+    padding: 10px ;
+    margin-left: 8px;
+    border-radius: 10px;
+    height: auto;
+}
+.goals img {
+    width:  50%;
+}
+.coding {
+    float: left;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.coding img {
+    width: 90%;
+    margin-right: 8%;
+    margin-left: 0px;
+}
+.commu {
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.h7 {
+    width: 70%;
+}
+.h3 {
+    width: 30%;
+}
+.commu img {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 0%;
+    float: right;
+}
+.btn {
+    width: fit-content;
+    border: 0px none wheat;
+    background-image: linear-gradient(to bottom right, tomato, violet);
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    display: block;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px 2px tomato;
+}
+.foot {
+    text-align: center;
+
 }
