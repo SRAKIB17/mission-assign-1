@@ -145,4 +145,5 @@ span {
 .foot a {
     text-decoration: solid;
     text-align: left;
+    width:fit-content;
 }
